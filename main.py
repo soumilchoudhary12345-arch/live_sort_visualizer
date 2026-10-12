@@ -99,7 +99,7 @@ STEP_ICONS: dict[str, tuple[str, str]] = {
 MIN_CARD_WIDTH = 5      # inner width of a card that holds two digits
 PANEL_PAD = 4           # panel borders (2) + inner padding (2)
 LIVE_LIMIT = 30         # cards allowed in the live pointer view
-AUTOPLAY_DELAY = 0.55   # seconds between iterations in auto-play mode
+AUTOPLAY_DELAY = 1.4    # seconds between iterations in auto-play mode
 
 
 # ---------------------------------------------------------------------------
