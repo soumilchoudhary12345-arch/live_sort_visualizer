@@ -10,7 +10,7 @@ colours on the cards, so you can see exactly where each counter sits.
 
 Run it with::
 
-    python3 main.py
+    python3 live_sort_visualizer.py
 
 Requirements: ``rich`` (see requirements.txt).
 
